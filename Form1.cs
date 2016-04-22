@@ -41,7 +41,7 @@ namespace Popup
         protected override void OnLoad(EventArgs e)
         {
             Label l = new Label();
-            l.Text = "Hola";
+            l.Text = "Hola Erick";
             this.Controls.Add(l);
             
             // Move window out of screen
